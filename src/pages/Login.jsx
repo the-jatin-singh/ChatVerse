@@ -8,7 +8,6 @@ const Login = () => {
 
   const navigate = useNavigate();
   const { currentUser, signinWithGoogle } = UserAuth()
-  console.log(currentUser)
 
   const handleLogin = async() => {
     try{
