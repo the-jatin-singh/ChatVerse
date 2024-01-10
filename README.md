@@ -17,7 +17,7 @@ ChatVerse is a versatile and user-friendly live chat application that connects p
 ### Installation
 1. Clone the repository: `git clone https://github.com/your-username/chatverse.git`
 2. Install dependencies: `npm install`
-3. Set up environment variables.
+3. Set up environment variables. [Mostly used in firebase.jsx]
 4. Start the application: `npm start`
 
 ## Usage
