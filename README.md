@@ -1,3 +1,5 @@
+![ChatVerse](/thumbnail.png)
+
 # ChatVerse
 
 ChatVerse is a versatile and user-friendly live chat application that connects people around the globe. Whether it's for casual conversations, collaborative work, or making new friends, ChatVerse has you covered.
