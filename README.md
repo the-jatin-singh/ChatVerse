@@ -4,6 +4,9 @@
 
 ChatVerse is a versatile and user-friendly live chat application that connects people around the globe. Whether it's for casual conversations, collaborative work, or making new friends, ChatVerse has you covered. 🙂
 
+## Deployment Link
+Visit [ChatVerse Deployment](https://chat-verse-delta.vercel.app/) to access the live application.
+
 ## Features
 - **Real-time Chat:** Engage in live conversations with users across the platform.
 - **User Authentication:** Securely log in with your Google account for personalized interactions.
