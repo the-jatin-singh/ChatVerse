@@ -31,7 +31,6 @@ const MessageBox = () => {
         }
 
         if(value!==""){
-            console.log(value);
             setValue("");
         } 
         
